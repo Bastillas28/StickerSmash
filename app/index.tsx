@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>GESITE JUNREV, BSIT 3A </Text>
+      <Text>Bastillas, Archjun , BSIT 3A</Text>
       <Text>Mobile App Development</Text>
     </View>
   );
